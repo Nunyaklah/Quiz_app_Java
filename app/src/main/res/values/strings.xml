@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quiz_App</string>
+    <string name="c_mongodb">C. MongoDB</string>
+    <string name="b_javascript">B. JavaScript</string>
+    <string name="a_css">A. CSS</string>
+    <string name="_1_what_is_used_to_style_an_html_page">6 . What is used to style an HTML page?</string>
+    <string name="c_section_section"><![CDATA[C. <section> </section>]]></string>
+    <string name="b_head_head"><![CDATA[B. <head> </head>]]></string>
+    <string name="a_body_body"><![CDATA[A. <body> </body>]]></string>
+    <string name="_1_what_tag_holds_the_title_of_the_page">5 . What tag holds the title of the page?</string>
+    <string name="c_or_or"><![CDATA[C. <or> </or>]]></string>
+    <string name="b_ul_ul"><![CDATA[B. <ul> </ul>]]></string>
+    <string name="a_ol_ol"><![CDATA[A. <ol> </ol>]]></string>
+    <string name="_1_to_create_an_ordered_list_we_use">4 . To create an ordered list, we use?</string>
+    <string name="c_html_5">C. HTML 5</string>
+    <string name="b_html_4_0">B. HTML 4.0</string>
+    <string name="a_xhtml">A. XHTML</string>
+    <string name="_1_what_is_the_latest_html_version">3 . What is the latest HTML version?</string>
+    <string name="c_h6"><![CDATA[C. <h6>]]></string>
+    <string name="b_h2"><![CDATA[B. <h2>]]></string>
+    <string name="a_h1"><![CDATA[A. <h1>]]></string>
+    <string name="_1_what_is_the_largest_size_of_a_heading">2 . What is the largest size of a heading?</string>
+    <string name="c_hyperscript_markdown_language">C. HyperScript Markdown Language</string>
+    <string name="b_hypertext_markup_language">B. Hypertext Markup Language</string>
+    <string name="a_hypertext_markdown_language">A. Hypertext Markdown Language</string>
+    <string name="_1_what_is_the_full_meaning_of_html">1 . What is the full meaning of HTML?</string>
+    <string name="enter_your_name_here">Enter your name here</string>
+    <string name="questions">Questions</string>
+    <string name="html_quiz">html quiz</string>
+</resources>
